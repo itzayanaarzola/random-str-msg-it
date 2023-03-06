@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Itzayana Arzola <itzayana.arzola@outlook.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "random-str-msg-it": "./bin/global.js"
   },
