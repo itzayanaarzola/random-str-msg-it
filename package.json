@@ -1,6 +1,6 @@
 {
   "name": "random-str-msg-it",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random strings messages",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "Itzayana Arzola <itzayana.arzola@outlook.com>",
   "license": "ISC",
-  "bin":{
-    "random-str-msg-it":"./bin/global.js"
+  "bin": {
+    "random-str-msg-it": "./bin/global.js"
   },
   "preferGlobal": true
 }
